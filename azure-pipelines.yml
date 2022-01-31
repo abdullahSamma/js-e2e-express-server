@@ -15,7 +15,7 @@ variables:
   webAppName: ''
 
   # Environment name
-  environmentName: ''
+  environmentName: 'codecoogs-env'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
