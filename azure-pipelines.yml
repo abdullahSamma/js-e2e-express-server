@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'b34a4b05-61f2-4bce-afc1-e2aa334a9a77'
 
   # Web app name
-  webAppName: ''
+  webAppName: 'codecoogs-app'
 
   # Environment name
   environmentName: 'codecoogs-env'
